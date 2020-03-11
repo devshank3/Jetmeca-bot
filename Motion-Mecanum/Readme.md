@@ -1,5 +1,4 @@
-# This is for basic movements 
-## Basic mecanum wheel movements
+## Basic test codes for mecanum test 
 
-1. Arduino codes 
-2. 
+1. Meca.ino 
+
